@@ -1,0 +1,2 @@
+aplikację działającą w środowisku rozproszonym, wykorzystującą do komunikacji RMI. Dokładniej - należy zaimlementować mały systemu, w którego skład wejdą podsystemy uruchamiane równolegle (na jednym lub na kilku różnych komputerach).
+Zakładamy, że system będzie pełnić rolę symulatora sieci rzecznej ze zbiornikami retencyjnymi. Zasady jego działania mają być niemal takie same, jak opisano w treści aplikacji TCP/IP
